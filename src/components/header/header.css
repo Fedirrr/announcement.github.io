@@ -1,0 +1,9 @@
+.headerWrapper {
+    padding: 10px;
+    display: flex;
+    background-color: rgb(35, 153, 199);
+    color: white;
+    font-size: 24px;
+    justify-content: space-between;
+}
+

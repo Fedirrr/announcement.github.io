@@ -1,0 +1,14 @@
+.announcementItems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.announcementWrapper {
+    position: relative;
+    padding: 10px;
+    border: 1px solid black;
+    width: 300px;
+    margin: 10px;
+}
