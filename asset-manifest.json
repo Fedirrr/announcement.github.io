@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/announcement.github.io/static/css/main.a3c6cd38.css",
+    "main.js": "/announcement.github.io/static/js/main.83e3d794.js",
+    "index.html": "/announcement.github.io/index.html",
+    "main.a3c6cd38.css.map": "/announcement.github.io/static/css/main.a3c6cd38.css.map",
+    "main.83e3d794.js.map": "/announcement.github.io/static/js/main.83e3d794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c6cd38.css",
+    "static/js/main.83e3d794.js"
+  ]
+}
